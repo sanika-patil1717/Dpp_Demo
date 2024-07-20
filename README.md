@@ -1,5 +1,11 @@
 # Dpp_Demo
 
+#UseCase digram-
+![Screenshot 2024-07-20 163755](https://github.com/user-attachments/assets/3ce7d10d-919a-47e4-8e2b-f8effdb2f299)
+
+#ER diagram-
+![image](https://github.com/user-attachments/assets/7bd0c235-acc7-4480-a7c0-3542554e2fd1)
+
 #Screenshots-
 ![Screenshot (174)](https://github.com/user-attachments/assets/4d66d7f4-1b81-4610-b16e-8fe70abb05f1)
 
